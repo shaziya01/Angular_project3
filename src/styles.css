@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+h3{
+    
+    color: rgb(231, 42, 17);
+    font-size: 30px;
+     text-decoration: underline;
+}
